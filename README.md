@@ -15,3 +15,15 @@
     <li><b>Support parameterized and fixture-based testing:</b> PyTest can run the same test function with different input values or configurations, using parametrization and fixtures.</li>
   </ul>
 </p>
+
+<h3 align="left">Why PyTest?</h3>
+<p>
+  <ul>
+    <li><b>Simplified Syntax:</b> PyTest allows you to write tests with less boilerplate and more readability, using plain assert statements and automatic test discovery.</li>
+    <li><b>Rich assertion introspection:</b> PyTest provides detailed information about failing assert statements, such as the values of variables and expressions involved.</li>
+    <li><b>Powerful Fixture System:</b> PyTest supports parameterized and fixture-based testing, which enables you to run the same test function with different input values or configurations.</li>
+    <li><b>Compatibility:</b> PyTest can integrate with other testing tools and frameworks, such as unittest, nose, doctest, and Django.</li>
+    <li><b>Extensibility:</b> PyTest has a plugin-based architecture that allows you to extend its functionality with various plugins, such as pytest-randomly, pytest-cov, pytest-django, and pytest-bdd.</li>
+  </ul>
+</p>
+
